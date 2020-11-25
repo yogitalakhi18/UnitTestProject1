@@ -4,8 +4,8 @@
   <!-- Parameters used by tests at runtime -->  
   <TestRunParameters>
     <Parameter name="SiteUrl" value="https://www.amazon.in/"/>
-    <Parameter name="UserId" value="9145350684"/>
-    <Parameter name="Password" value="7597686051@yl"/>
+    <Parameter name="UserId" value="xxxx"/>
+    <Parameter name="Password" value="xxxx"/>
     <Parameter name="ItemName" value="Mobile"/>
     <Parameter name="Keyword" value="Samsung"/>
     <Parameter name="ScreenshotPath" value="D:\Screenshots"/>
